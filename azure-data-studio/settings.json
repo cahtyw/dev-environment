@@ -1,0 +1,31 @@
+{
+  "workbench.enablePreviewFeatures": true,
+  // Define o tema do VSCode
+  "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+  // Configura tamanho e família da fonte
+  "editor.fontSize": 18,
+  "editor.lineHeight": 24,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  // Aplica linhas verticais para lembrar de quebrar linha em códigos muito grandes
+  "editor.rulers": [80, 120],
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": false
+  },
+  "editor.renderLineHighlight": "gutter",
+  "terminal.integrated.fontSize": 14,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.tabSize": 2,
+  "window.zoomLevel": -1,
+  "extensions.ignoreRecommendations": true,
+  "breadcrumbs.enabled": true,
+  "git.enableSmartCommit": true,
+  "editor.parameterHints.enabled": false,
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "workbench.activityBar.visible": true,
+  "editor.suggestSelection": "first"
+}

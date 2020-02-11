@@ -1,0 +1,14 @@
+Admin Pack for SQL Server
+Atom One Dark Theme
+Central Management Servers
+Monokai Pro
+PostgreSQL
+Query History
+SandDance for Azure Data Studio
+Simple Data Picker
+SQL Server Agent
+SQL Server Dacpac
+SQL Server Import
+SQL Server Profiler
+SQL Server Schema Compare
+Visutal Studio IntelliCode

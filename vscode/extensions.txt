@@ -1,0 +1,35 @@
+Better Comments
+C/C++
+C/C++ Advanced Lint
+C/C++ Extension Pack
+C++ Intellisense
+Code Runner
+Color Highlight
+Debugger for Java
+Discord Presence
+Docker
+DotENV
+EditorConfig
+ESLint
+Gitlens
+glean
+Include Autocomplete
+Java Dependency Viewer
+Java Extension Pack
+Java Test Runner
+Language Support for Java(TM) by Red Hat
+Laravel Blade Snippets
+Live Server
+Material Icon Theme
+Maven for Java
+Monokai Pro
+NGINX Configuration
+PHP Inteliphense
+PHP IntelliSense
+Prettier
+Rocketseat ReactJS
+Todo Tree
+TSLint
+Turbo Console Log
+Visutal Studio IntelliCode
+vscode-styled-components
